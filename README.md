@@ -1,6 +1,6 @@
 1) Cel aplikacji:
 
-Program wykonany na potrzeby zaliczenia zajęć: Inżynieria Oprogramowania na Politechnice Krakowskiej.
+Program wykonany na potrzeby zaliczenia zajęć: Inżynieria Oprogramowania
 
 
 2) Wprowadzenie:
